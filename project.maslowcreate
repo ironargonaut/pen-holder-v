@@ -111,10 +111,18 @@
                     ]
                 },
                 {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 336.15635179153094,
+                    "y": 142.67969598262758,
+                    "uniqueID": 590125,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 348.85559174809987,
-                    "y": 27.639522258414765,
+                    "x": 372.7600434310532,
+                    "y": 33.615635179153095,
                     "uniqueID": 896279,
                     "ioValues": [
                         {
@@ -123,21 +131,13 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -28
+                            "ioValue": -16
                         },
                         {
                             "name": "zDist",
                             "ioValue": 0
                         }
                     ]
-                },
-                {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 336.15635179153094,
-                    "y": 142.67969598262758,
-                    "uniqueID": 590125,
-                    "ioValues": []
                 },
                 {
                     "atomType": "Difference",
@@ -191,8 +191,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 526.6449511400651,
-                    "y": 156.8729641693811,
+                    "x": 525.1509229098806,
+                    "y": 156.1259500542888,
                     "uniqueID": 841097,
                     "ioValues": [
                         {
@@ -201,7 +201,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -28
+                            "ioValue": -16
                         },
                         {
                             "name": "zDist",
@@ -212,8 +212,8 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 649.9022801302931,
-                    "y": 121.76330076004342,
+                    "x": 651.3963083604777,
+                    "y": 118.77524429967426,
                     "uniqueID": 849226,
                     "ioValues": []
                 },
@@ -246,8 +246,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1326,
-                    "y": 198.5,
+                    "x": 1319.226927252986,
+                    "y": 194.97068403908793,
                     "ioValues": []
                 }
             ],
@@ -314,15 +314,15 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
-                    "ap1ID": 896279,
-                    "ap2ID": 561642
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "geometry1",
                     "ap1ID": 590125,
                     "ap2ID": 198312
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry2",
+                    "ap1ID": 896279,
+                    "ap2ID": 561642
                 },
                 {
                     "ap1Name": "geometry",
