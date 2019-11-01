@@ -119,11 +119,11 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 76.2
+                            "ioValue": 66.2
                         },
                         {
                             "name": "y length",
-                            "ioValue": 76.2
+                            "ioValue": 66.2
                         }
                     ]
                 },
@@ -246,16 +246,16 @@
                 {
                     "atomType": "Svg",
                     "name": "Svg",
-                    "x": 1139.1965255157438,
-                    "y": 230.0803474484256,
+                    "x": 1138.1728395061727,
+                    "y": 229.33333333333334,
                     "uniqueID": 723096,
                     "ioValues": []
                 },
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1792,
-                    "y": 281.5,
+                    "x": 1408,
+                    "y": 185.5,
                     "ioValues": []
                 }
             ],
